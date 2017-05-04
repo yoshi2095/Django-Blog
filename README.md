@@ -1,5 +1,5 @@
 # Django-Blog
-This is Blog website in Django made by me. It includes all the advanced functionalitites that a blog can have, from logging into the platform, to adding comments, subscribing to the RSS feed, to sharing the posts.
+This is a Blog website in Django made by me. It includes all the advanced functionalitites that a blog can have, from logging into the platform, to adding comments, subscribing to the RSS feed, to sharing the posts.
 
 Home page:
 
