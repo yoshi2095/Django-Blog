@@ -14,7 +14,15 @@ Clicking on the "Subscribe to my RSS feed" button generates the following RSS li
 
 ![alt RSS feed](https://github.com/yoshi2095/Django-Blog/blob/master/mysite/blog/static/images/rss.png)
 
-Comment Section:
+Comment Section-These are the comments posted by readers:
+
+![alt RSS feed](https://github.com/yoshi2095/Django-Blog/blob/master/mysite/blog/static/images/comment_section.png)
+
+They can have a look at similar posts as shown below:
+
+![alt Comment Section](https://github.com/yoshi2095/Django-Blog/blob/master/mysite/blog/static/images/share_similar.png)
+
+Readers can add new comments from the following form:
 
 ![alt Comment Section](https://github.com/yoshi2095/Django-Blog/blob/master/mysite/blog/static/images/comment.png)
 
@@ -22,7 +30,10 @@ The readers can also search the blog/articles by any query:
 
 ![alt RSS feed](https://github.com/yoshi2095/Django-Blog/blob/master/mysite/blog/static/images/search.png)
 
-Readers can also share the posts:
+Readers can also share the posts by clicking on the "share the post button" and sharing it through e-mail to their friends as follows:
+
+![alt RSS feed](https://github.com/yoshi2095/Django-Blog/blob/master/mysite/blog/static/images/share_button.png)
+
 ![alt RSS feed](https://github.com/yoshi2095/Django-Blog/blob/master/mysite/blog/static/images/share.png)
 
 Readers can search the articles according to the tags:
