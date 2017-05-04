@@ -1,0 +1,154 @@
+body { 
+    margin:0;
+    padding:0;
+    font-family: helvetica, sans-serif; 
+    background-color: #80bd9e;
+    color: black;
+}
+
+hr{
+    border-color: grey;
+}
+
+a { 
+    color: white;
+    text-decoration:none; 
+}
+a:hover{
+    text-decoration: underline;
+}
+
+._post{
+    border-style: solid;
+    margin: 20px 0px 0px 0px;
+    padding: 20px;
+    background-color: #003b46;
+    color: white;
+
+}
+._sidebar{
+    border-style: solid;
+    margin: 20px 50px 0px 0px;
+    padding: 20px;
+    background-color: #003b46;
+
+}
+
+.button {
+    font-size: 25px;
+    border-style: solid;
+    border-color: white;
+    padding: 10px;
+    color: black;
+    background-color: lightblue;
+    text-decoration: none;
+
+}
+
+.button:hover{
+    background-color: #80bd9e;
+    color: black;
+    text-decoration: none;
+}
+
+header { 
+    font-weight: normal;
+    padding:10px ;
+    margin-top: 20px;
+    background-color: #003b46;
+    position: relative;
+    color: white;
+    border-style: solid;
+}
+
+.label {
+    color: white;
+    text-align: left;
+    margin-left: 20px;
+}
+
+h2 {
+    font-weight:bold;
+    margin:30px 0 0;
+}
+
+#content { 
+    float:left;
+    width:60%;
+    padding:0 0 0 30px; 
+}
+
+#sidebar { 
+    float: right;
+    width:30%;
+    padding:10px;
+    background-color: #003b46;
+    height:100%;
+    color: white;
+    text-align: center;
+}
+.sidebar > p > a {
+    color: lightgrey;
+}
+ul {
+    list-style: none;
+}
+li > a {
+    color: lightgrey;
+} 
+
+p.date { 
+    color: white;
+    font-family: georgia, serif;
+    font-size: 12px; 
+}
+
+/* pagination */
+.pagination { 
+    margin:40px 0; 
+    font-weight:bold;
+}
+
+/* forms */
+label { 
+    float:left;
+    clear:both;
+    color:#333;
+    margin-bottom:4px; 
+}
+input, textarea { 
+    clear:both;
+    float:left;
+    margin:0 0 10px;
+    background:#ededed;
+    border:0;
+    padding:6px 10px;
+    font-size:12px;
+}
+input[type=submit] {
+    font-weight:bold;
+    background:#00abff;
+    color:#fff;
+    padding:10px 20px;
+    font-size:14px;
+    text-transform:uppercase; 
+}
+.errorlist { 
+    color:#cc0033;
+    float:left;
+    clear:both;
+    padding-left:10px; 
+}
+
+/* comments */
+.comment {
+    padding:10px;
+    margin-top: 15px;
+    position: relative;
+}
+
+.comment .info {
+    font-weight:bold;
+    font-size:12px;
+    color: white;
+}
