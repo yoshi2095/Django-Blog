@@ -9,11 +9,6 @@ Post detail:
 
 ![alt Post Detail](https://github.com/yoshi2095/Django-Blog/blob/master/mysite/blog/static/images/post_detail.png)
 
-The panel to the right contains links for subscribing to the RSS feed and lists of "latest posts" and the "most commented posts".
-Clicking on the "Subscribe to my RSS feed" button generates the following RSS link:
-
-![alt RSS feed](https://github.com/yoshi2095/Django-Blog/blob/master/mysite/blog/static/images/rss.png)
-
 Comment Section-These are the comments posted by readers:
 
 ![alt RSS feed](https://github.com/yoshi2095/Django-Blog/blob/master/mysite/blog/static/images/comment_section.png)
@@ -39,4 +34,10 @@ Readers can also share the posts by clicking on the "share the post button" and 
 Readers can search the articles according to the tags:
 
 ![alt RSS feed](https://github.com/yoshi2095/Django-Blog/blob/master/mysite/blog/static/images/tagged.png)
+
+The panel to the right contains links for subscribing to the RSS feed and lists of "latest posts" and the "most commented posts".
+Clicking on the "Subscribe to my RSS feed" button generates the following RSS link:
+
+![alt RSS feed](https://github.com/yoshi2095/Django-Blog/blob/master/mysite/blog/static/images/rss.png)
+
 
